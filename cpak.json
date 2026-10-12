@@ -4,7 +4,7 @@
   "name": "MinGW SDK",
   "description": "MinGW-w64 C and C++ cross-compilers for 32-bit and 64-bit Windows targets.",
   "version": "13.2.0",
-  "image": "ghcr.io/containerpak/sdk-mingw@sha256:c35e984afa9464fff9eeaeb0e25de8e79d1e5af3fcd8c8ca3621bd0886e126e0",
+  "image": "ghcr.io/containerpak/sdk-mingw@sha256:1d2b1b039b120fb18dea4cb0037b835db431613a8a12acb44e9ca0c85a8dea35",
   "binaries": [
     "/usr/bin/i686-w64-mingw32-gcc",
     "/usr/bin/i686-w64-mingw32-g++",
